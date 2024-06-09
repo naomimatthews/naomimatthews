@@ -1,17 +1,6 @@
 Naomi Matthews Portfolio
 Welcome to my cyber security portfolio! This repository showcases various projects, tools, and write-ups related to my work and interests in the field of cyber security.
 
-Table of Contents
-About Me
-Projects
-Tools
-Write-ups
-Certifications
-Blog
-Contact
-About Me
-A brief introduction about yourself:
-
 Name: Naomi Lee Matthews
 Background: I initially pursued a Bachelor's degree in Computer Games Development, where I developed a strong foundation in programming and software engineering. During my studies, I discovered a passion for iOS development and web development, which allowed me to combine creativity with technical skills to build engaging applications and websites.
 
