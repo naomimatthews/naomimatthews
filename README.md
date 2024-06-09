@@ -1,6 +1,3 @@
-Naomi Matthews Portfolio
-Welcome to my cyber security portfolio! This repository showcases various projects, tools, and write-ups related to my work and interests in the field of cyber security.
-
 I initially pursued a Bachelor's degree in Computer Games Development, where I developed a strong foundation in programming and software engineering. During my studies, I discovered a passion for iOS development and web development, which allowed me to combine creativity with technical skills to build engaging applications and websites.
 
 Driven by a growing interest in the security aspects of software and applications, I decided to further my education by pursuing a Master's degree in Cyber Security. This advanced study has equipped me with specialized knowledge in areas such as network security, ethical hacking, and threat analysis, enabling me to protect and secure digital environments effectively.
